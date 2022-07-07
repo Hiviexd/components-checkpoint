@@ -1,10 +1,9 @@
 import React from 'react';
-const AD=()=> {
+
+export default function Address() {
     return(
     <>
     Monastir
     </>
     );
 };
-
-export default AD;

@@ -1,10 +1,9 @@
 const fullName = "Rayen Attia"
-const FN=()=> {
+
+export default function FullName() {
     return(
     <>
     <h4>{fullName}</h4>
     </>
     );
 };
-
-export default FN;
